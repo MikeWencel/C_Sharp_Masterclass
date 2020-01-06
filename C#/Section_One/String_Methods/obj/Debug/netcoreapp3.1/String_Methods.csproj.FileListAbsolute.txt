@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/bin/Debug/netcoreapp3.1/String_Methods
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/bin/Debug/netcoreapp3.1/String_Methods.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/bin/Debug/netcoreapp3.1/String_Methods.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/bin/Debug/netcoreapp3.1/String_Methods.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/bin/Debug/netcoreapp3.1/String_Methods.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/bin/Debug/netcoreapp3.1/String_Methods.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/obj/Debug/netcoreapp3.1/String_Methods.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/obj/Debug/netcoreapp3.1/String_Methods.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/obj/Debug/netcoreapp3.1/String_Methods.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/obj/Debug/netcoreapp3.1/String_Methods.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/String_Methods/obj/Debug/netcoreapp3.1/String_Methods.pdb
