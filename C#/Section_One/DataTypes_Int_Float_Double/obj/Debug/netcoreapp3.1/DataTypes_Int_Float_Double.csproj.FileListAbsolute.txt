@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/bin/Debug/netcoreapp3.1/DataTypes_Int_Float_Double
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/bin/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/bin/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/bin/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/bin/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/bin/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/obj/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/obj/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/obj/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/obj/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/DataTypes_Int_Float_Double/obj/Debug/netcoreapp3.1/DataTypes_Int_Float_Double.pdb
