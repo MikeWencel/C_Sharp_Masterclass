@@ -8,6 +8,12 @@ namespace DataTypes_Int_Float_Double
         {
             int numberOne = 1;
             int numberTwo = 5;
+            // We can create variables without assignment
+            int num, num2, num3, num4, num5;
+            double numDou = 3.5;
+            
+            // We need to add "F"
+            float numFlou = 3.5F;
 
             Console.WriteLine(numberOne);
             int result = numberOne + numberTwo;
@@ -25,8 +31,14 @@ namespace DataTypes_Int_Float_Double
             double SecondResult = first + numberTwo;
             Console.WriteLine(first + " + " + numberTwo + " = " + SecondResult);
 
-            SecondResult = first + second;
-            Console.WriteLine(first + " + " + numberTwo + " = " + SecondResult);
+            SecondResult = numberTwo / first;
+            Console.WriteLine(numberTwo  + " / " + first + " = " + SecondResult);
+
+            // We need to use casting, when we want to work with other types of datatypes in one math.
+            int thirdResult = numberTwo * first;
+            Console.WriteLine(numberTwo  + " * " + first + " = " + thirdResult);
+
+
 
         }
     }
