@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/bin/Debug/netcoreapp3.1/Parsing
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/bin/Debug/netcoreapp3.1/Parsing.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/bin/Debug/netcoreapp3.1/Parsing.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/bin/Debug/netcoreapp3.1/Parsing.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/bin/Debug/netcoreapp3.1/Parsing.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/bin/Debug/netcoreapp3.1/Parsing.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/obj/Debug/netcoreapp3.1/Parsing.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/obj/Debug/netcoreapp3.1/Parsing.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/obj/Debug/netcoreapp3.1/Parsing.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/obj/Debug/netcoreapp3.1/Parsing.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/Parsing/obj/Debug/netcoreapp3.1/Parsing.pdb
