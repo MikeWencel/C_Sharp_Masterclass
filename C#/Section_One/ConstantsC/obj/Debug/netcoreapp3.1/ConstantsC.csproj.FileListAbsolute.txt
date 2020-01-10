@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/bin/Debug/netcoreapp3.1/ConstantsC
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/bin/Debug/netcoreapp3.1/ConstantsC.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/bin/Debug/netcoreapp3.1/ConstantsC.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/bin/Debug/netcoreapp3.1/ConstantsC.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/bin/Debug/netcoreapp3.1/ConstantsC.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/bin/Debug/netcoreapp3.1/ConstantsC.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/obj/Debug/netcoreapp3.1/ConstantsC.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/obj/Debug/netcoreapp3.1/ConstantsC.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/obj/Debug/netcoreapp3.1/ConstantsC.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/obj/Debug/netcoreapp3.1/ConstantsC.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_One/ConstantsC/obj/Debug/netcoreapp3.1/ConstantsC.pdb
