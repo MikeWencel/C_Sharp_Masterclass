@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/bin/Debug/netcoreapp3.1/Methods
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
