@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/bin/Debug/netcoreapp3.1/return_methods
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/bin/Debug/netcoreapp3.1/return_methods.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/bin/Debug/netcoreapp3.1/return_methods.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/bin/Debug/netcoreapp3.1/return_methods.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/bin/Debug/netcoreapp3.1/return_methods.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/bin/Debug/netcoreapp3.1/return_methods.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/obj/Debug/netcoreapp3.1/return_methods.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/obj/Debug/netcoreapp3.1/return_methods.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/obj/Debug/netcoreapp3.1/return_methods.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/obj/Debug/netcoreapp3.1/return_methods.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/return_methods/obj/Debug/netcoreapp3.1/return_methods.pdb
