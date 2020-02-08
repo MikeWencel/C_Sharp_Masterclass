@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/bin/Debug/netcoreapp3.1/User_input
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/bin/Debug/netcoreapp3.1/User_input.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/bin/Debug/netcoreapp3.1/User_input.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/bin/Debug/netcoreapp3.1/User_input.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/bin/Debug/netcoreapp3.1/User_input.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/bin/Debug/netcoreapp3.1/User_input.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/obj/Debug/netcoreapp3.1/User_input.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/obj/Debug/netcoreapp3.1/User_input.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/obj/Debug/netcoreapp3.1/User_input.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/obj/Debug/netcoreapp3.1/User_input.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Two/User_input/obj/Debug/netcoreapp3.1/User_input.pdb
