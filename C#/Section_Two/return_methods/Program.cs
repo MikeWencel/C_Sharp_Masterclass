@@ -8,6 +8,7 @@ namespace return_methods
         {
             Console.WriteLine(Add(2,5));
             Console.WriteLine(Multiply(2,5));
+            Console.WriteLine(divided(25,13));
         }
 
         public static int Add(int first, int second){
@@ -17,6 +18,10 @@ namespace return_methods
 
         public static int Multiply(int first, int second){
             return first * second;
+        }
+
+        public static double divided(double first, double second){
+            return first/second;
         }
     }
 }
