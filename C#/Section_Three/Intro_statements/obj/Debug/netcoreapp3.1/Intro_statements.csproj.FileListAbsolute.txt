@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/bin/Debug/netcoreapp3.1/Intro_statements
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/bin/Debug/netcoreapp3.1/Intro_statements.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/bin/Debug/netcoreapp3.1/Intro_statements.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/bin/Debug/netcoreapp3.1/Intro_statements.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/bin/Debug/netcoreapp3.1/Intro_statements.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/bin/Debug/netcoreapp3.1/Intro_statements.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/obj/Debug/netcoreapp3.1/Intro_statements.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/obj/Debug/netcoreapp3.1/Intro_statements.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/obj/Debug/netcoreapp3.1/Intro_statements.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/obj/Debug/netcoreapp3.1/Intro_statements.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/Intro_statements/obj/Debug/netcoreapp3.1/Intro_statements.pdb
