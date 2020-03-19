@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/bin/Debug/netcoreapp3.1/switch_statements
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/bin/Debug/netcoreapp3.1/switch_statements.deps.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/bin/Debug/netcoreapp3.1/switch_statements.runtimeconfig.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/bin/Debug/netcoreapp3.1/switch_statements.runtimeconfig.dev.json
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/bin/Debug/netcoreapp3.1/switch_statements.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/bin/Debug/netcoreapp3.1/switch_statements.pdb
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/obj/Debug/netcoreapp3.1/switch_statements.csprojAssemblyReference.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/obj/Debug/netcoreapp3.1/switch_statements.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/obj/Debug/netcoreapp3.1/switch_statements.AssemblyInfo.cs
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/obj/Debug/netcoreapp3.1/switch_statements.dll
+/home/mikewencel/Documents/GitHub/SelfEducation/C#/Section_Three/switch_statements/obj/Debug/netcoreapp3.1/switch_statements.pdb
