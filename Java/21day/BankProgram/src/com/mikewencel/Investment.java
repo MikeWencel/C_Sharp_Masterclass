@@ -4,19 +4,25 @@ public class Investment {
     private int percent;
     private double money;
 
-    public String FirstQuoter(double money,double percent){
+    public String FirstYear(double money,double percent){
         double percentage = money * percent;
         double allMoney = money + percentage;
-        String Firstsum = "If you'll invest: " + money +" You'll earn: " + percentage + " in first quarter, you'll have " + allMoney;
+        String Firstsum = "You invest: " + money +" You earn: " + percentage + " in first year, you had " + allMoney;
         return Firstsum;
 
     }
 
-    public String secondQuoter(double money,double percent){
-        double percentage = money * percent;
-        String sum = "If you'll invest" + money +"You'll earn " + percentage + "in second quarter";
+    public String secondYear(double money){
+        double percentage = money - 1500;
+        String sum = "In second year, you lost " + 1500 + " you've got " + percentage ;
         return sum;
 
+    }
+
+    public String thirdYear(double money,double percent){
+        money = (percent * money) + money;
+        String sum = "In second year, you lost " + percent + " you've got " + money;
+        return sum;
     }
 
 }
