@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/obj/Debug/netcoreapp3.1/Elementary_Operations.csprojAssemblyReference.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/obj/Debug/netcoreapp3.1/Elementary_Operations.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/obj/Debug/netcoreapp3.1/Elementary_Operations.AssemblyInfo.cs
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/bin/Debug/netcoreapp3.1/Elementary_Operations
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/bin/Debug/netcoreapp3.1/Elementary_Operations.deps.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/bin/Debug/netcoreapp3.1/Elementary_Operations.runtimeconfig.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/bin/Debug/netcoreapp3.1/Elementary_Operations.runtimeconfig.dev.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/bin/Debug/netcoreapp3.1/Elementary_Operations.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/bin/Debug/netcoreapp3.1/Elementary_Operations.pdb
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/obj/Debug/netcoreapp3.1/Elementary_Operations.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Elementary_Operations/obj/Debug/netcoreapp3.1/Elementary_Operations.pdb
