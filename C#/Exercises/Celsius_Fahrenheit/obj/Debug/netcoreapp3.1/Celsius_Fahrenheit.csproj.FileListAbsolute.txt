@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/bin/Debug/netcoreapp3.1/Celsius_Fahrenheit
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/bin/Debug/netcoreapp3.1/Celsius_Fahrenheit.deps.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/bin/Debug/netcoreapp3.1/Celsius_Fahrenheit.runtimeconfig.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/bin/Debug/netcoreapp3.1/Celsius_Fahrenheit.runtimeconfig.dev.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/bin/Debug/netcoreapp3.1/Celsius_Fahrenheit.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/bin/Debug/netcoreapp3.1/Celsius_Fahrenheit.pdb
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/obj/Debug/netcoreapp3.1/Celsius_Fahrenheit.csprojAssemblyReference.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/obj/Debug/netcoreapp3.1/Celsius_Fahrenheit.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/obj/Debug/netcoreapp3.1/Celsius_Fahrenheit.AssemblyInfo.cs
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/obj/Debug/netcoreapp3.1/Celsius_Fahrenheit.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/Celsius_Fahrenheit/obj/Debug/netcoreapp3.1/Celsius_Fahrenheit.pdb
