@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/bin/Debug/netcoreapp3.1/TheSameResult
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/bin/Debug/netcoreapp3.1/TheSameResult.deps.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/bin/Debug/netcoreapp3.1/TheSameResult.runtimeconfig.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/bin/Debug/netcoreapp3.1/TheSameResult.runtimeconfig.dev.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/bin/Debug/netcoreapp3.1/TheSameResult.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/bin/Debug/netcoreapp3.1/TheSameResult.pdb
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/obj/Debug/netcoreapp3.1/TheSameResult.csprojAssemblyReference.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/obj/Debug/netcoreapp3.1/TheSameResult.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/obj/Debug/netcoreapp3.1/TheSameResult.AssemblyInfo.cs
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/obj/Debug/netcoreapp3.1/TheSameResult.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/TheSameResult/obj/Debug/netcoreapp3.1/TheSameResult.pdb
