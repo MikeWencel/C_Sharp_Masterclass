@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Fundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
