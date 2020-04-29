@@ -1,0 +1,11 @@
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/bin/Debug/netcoreapp3.1/word_reversing
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/bin/Debug/netcoreapp3.1/word_reversing.deps.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/bin/Debug/netcoreapp3.1/word_reversing.runtimeconfig.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/bin/Debug/netcoreapp3.1/word_reversing.runtimeconfig.dev.json
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/bin/Debug/netcoreapp3.1/word_reversing.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/bin/Debug/netcoreapp3.1/word_reversing.pdb
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/obj/Debug/netcoreapp3.1/word_reversing.csprojAssemblyReference.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/obj/Debug/netcoreapp3.1/word_reversing.AssemblyInfoInputs.cache
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/obj/Debug/netcoreapp3.1/word_reversing.AssemblyInfo.cs
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/obj/Debug/netcoreapp3.1/word_reversing.dll
+/home/mikewencel/Documents/C_Sharp_Masterclass/C#/Exercises/word_reversing/obj/Debug/netcoreapp3.1/word_reversing.pdb
