@@ -1,0 +1,36 @@
+XYZSORT - Sortowanie punktów
+
+Napisz program, który posortuje punkty ze współrzędnymi x, y i z rosnąco.
+
+
+Wejście
+
+Pierwsza linia zawiera liczbę punktów t (t < 1001). W kolejnych t liniach znajdują się trzy liczby całkowite x, y i z (x,y,z < 1002) 
+oznaczające odpowiednio współrzędne x, y i z danego punktu.
+
+
+
+Wyjście
+
+Posortowany ciąg punktów rosnąco.
+Punktacja
+
+Liczbą punktów jest długość kodu (włącznie z białymi znakami).
+Przykład
+
+Wejście:
+6
+3 2 2
+2 1 3
+2 3 1
+1 3 2
+3 1 2
+1 3 1
+Wyjście:
+1 3 1
+1 3 2
+2 1 3
+2 3 1
+3 1 2
+3 2 2
+

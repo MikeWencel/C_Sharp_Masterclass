@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ventillo\\Documents\\github\\C_Sharp_Masterclass\\C#\\Exercises\\xyzsort_wsb\\xyzsort_wsb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ventillo\\Documents\\github\\C_Sharp_Masterclass\\C#\\Exercises\\xyzsort_wsb\\xyzsort_wsb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ventillo\\Documents\\github\\C_Sharp_Masterclass\\C#\\Exercises\\xyzsort_wsb\\xyzsort_wsb.csproj",
+        "projectName": "xyzsort_wsb",
+        "projectPath": "C:\\Users\\Ventillo\\Documents\\github\\C_Sharp_Masterclass\\C#\\Exercises\\xyzsort_wsb\\xyzsort_wsb.csproj",
+        "packagesPath": "C:\\Users\\Ventillo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ventillo\\Documents\\github\\C_Sharp_Masterclass\\C#\\Exercises\\xyzsort_wsb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ventillo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
