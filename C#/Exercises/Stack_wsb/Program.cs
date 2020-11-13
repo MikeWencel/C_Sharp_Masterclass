@@ -1,12 +1,4 @@
 ﻿using System;
-
-namespace Stack_wsb
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            using System;
 using System.Collections.Generic;
 
 namespace Stack
@@ -31,6 +23,3 @@ namespace Stack
     }
 }
 
-        }
-    }
-}
