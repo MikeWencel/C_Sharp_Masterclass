@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "comparing_big_letters_wsb/1.0.0": {
+        "runtime": {
+          "comparing_big_letters_wsb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "comparing_big_letters_wsb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

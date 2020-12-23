@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ItrnjuNRots/DJP1xSh+D31H3a2sM8lTSkwvaaHc18QJsRqXC9J2cIfkN6Z8Z5ie8Z3Im81JG20+7owLsc5w6Q==",
+  "dgSpecHash": "p+iYWZsMTkSN5XZh1uuCpcQIxbVPCFUQoIYg+zdKz/kvfysUC6hT6qghp6wgYo90z9ewl40U15nYNX6ungxaLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ventillo\\Documents\\github\\C_Sharp_Masterclass\\C#\\Exercises\\comparing_big_letters_wsb\\comparing_big_letters_wsb.csproj",
+  "projectFilePath": "F:\\Programowanie\\C_Sharp_Masterclass\\C#\\Exercises\\comparing_big_letters_wsb\\comparing_big_letters_wsb.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file F:\\Programowanie\\C_Sharp_Masterclass\\C#\\Exercises\\comparing_big_letters_wsb\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

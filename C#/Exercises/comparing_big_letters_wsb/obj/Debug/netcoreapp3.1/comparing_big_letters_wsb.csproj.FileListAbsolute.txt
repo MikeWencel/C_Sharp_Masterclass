@@ -1,0 +1,19 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.genruntimeconfig.cache
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.csprojAssemblyReference.cache
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.AssemblyInfoInputs.cache
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.AssemblyInfo.cs
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.csproj.CoreCompileInputs.cache
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.dll
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.pdb
