@@ -17,3 +17,10 @@ F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\
 F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.csproj.CoreCompileInputs.cache
 F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.dll
 F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.pdb
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.exe
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.deps.json
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.runtimeconfig.json
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.runtimeconfig.dev.json
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.dll
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\bin\Debug\netcoreapp3.1\comparing_big_letters_wsb.pdb
+F:\Programowanie\C_Sharp_Masterclass\C#\Exercises\comparing_big_letters_wsb\obj\Debug\netcoreapp3.1\comparing_big_letters_wsb.genruntimeconfig.cache

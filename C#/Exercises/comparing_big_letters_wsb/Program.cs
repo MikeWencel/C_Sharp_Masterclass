@@ -66,14 +66,14 @@
 
                         case ">=": {
                         for (int i = 0; i < firstNum.Length; i++) {
-                            if (firstNum[i] == secondNum[i]) {
+                            if (firstNum[i] < secondNum[i]) {
                                 point = "1";
-                            }else if(firstNum[i] > secondNum[i]){
+                            }else if(firstNum[i] == secondNum[i]){
                                 point = "1";
                                 break;
                             } else {
                                 point = "0";
-                                break;
+                                
                                 
                             }
                             
