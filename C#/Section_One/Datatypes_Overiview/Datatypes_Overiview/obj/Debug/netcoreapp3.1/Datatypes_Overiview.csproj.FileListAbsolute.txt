@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\bin\Debug\netcoreapp3.1\Datatypes_Overiview.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\bin\Debug\netcoreapp3.1\Datatypes_Overiview.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\bin\Debug\netcoreapp3.1\Datatypes_Overiview.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\bin\Debug\netcoreapp3.1\Datatypes_Overiview.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\bin\Debug\netcoreapp3.1\Datatypes_Overiview.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\bin\Debug\netcoreapp3.1\Datatypes_Overiview.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\obj\Debug\netcoreapp3.1\Datatypes_Overiview.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\obj\Debug\netcoreapp3.1\Datatypes_Overiview.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\obj\Debug\netcoreapp3.1\Datatypes_Overiview.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\obj\Debug\netcoreapp3.1\Datatypes_Overiview.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\obj\Debug\netcoreapp3.1\Datatypes_Overiview.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\obj\Debug\netcoreapp3.1\Datatypes_Overiview.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Datatypes_Overiview\Datatypes_Overiview\obj\Debug\netcoreapp3.1\Datatypes_Overiview.genruntimeconfig.cache
