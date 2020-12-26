@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\bin\Debug\netcoreapp3.1\Console_Methods.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\bin\Debug\netcoreapp3.1\Console_Methods.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\bin\Debug\netcoreapp3.1\Console_Methods.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\bin\Debug\netcoreapp3.1\Console_Methods.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\bin\Debug\netcoreapp3.1\Console_Methods.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\bin\Debug\netcoreapp3.1\Console_Methods.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\obj\Debug\netcoreapp3.1\Console_Methods.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\obj\Debug\netcoreapp3.1\Console_Methods.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\obj\Debug\netcoreapp3.1\Console_Methods.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\obj\Debug\netcoreapp3.1\Console_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\obj\Debug\netcoreapp3.1\Console_Methods.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\obj\Debug\netcoreapp3.1\Console_Methods.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Console_Methods\Console_Methods\obj\Debug\netcoreapp3.1\Console_Methods.genruntimeconfig.cache
