@@ -15,6 +15,7 @@ namespace Console_Methods
             int valueAscii = Console.Read();
             Console.WriteLine("Ascii value is {0}", valueAscii);
 
+
             Console.ReadLine();
 
 
