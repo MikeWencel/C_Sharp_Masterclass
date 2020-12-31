@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike Wencel\\Documents\\Programowanie\\C_Sharp_Masterclass\\C#\\Section_One\\String_Methods\\String_Methods.csproj",
-      "projectName": "String_Methods",
-      "projectPath": "C:\\Users\\Mike Wencel\\Documents\\Programowanie\\C_Sharp_Masterclass\\C#\\Section_One\\String_Methods\\String_Methods.csproj",
+      "projectUniqueName": "C:\\Users\\Mike Wencel\\Documents\\Programowanie\\C_Sharp_Masterclass\\C#\\Section_One\\Parsing\\Parsing\\Parsing.csproj",
+      "projectName": "Parsing",
+      "projectPath": "C:\\Users\\Mike Wencel\\Documents\\Programowanie\\C_Sharp_Masterclass\\C#\\Section_One\\Parsing\\Parsing\\Parsing.csproj",
       "packagesPath": "C:\\Users\\Mike Wencel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mike Wencel\\Documents\\Programowanie\\C_Sharp_Masterclass\\C#\\Section_One\\String_Methods\\obj\\",
+      "outputPath": "C:\\Users\\Mike Wencel\\Documents\\Programowanie\\C_Sharp_Masterclass\\C#\\Section_One\\Parsing\\Parsing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mike Wencel\\AppData\\Roaming\\NuGet\\NuGet.Config",

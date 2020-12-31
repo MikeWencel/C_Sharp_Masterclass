@@ -6,18 +6,33 @@ namespace String_Methods
     {
         static void Main(string[] args)
         {
-            string name = "Mike";
+            string name = " Mike";
             string lastName = "Wencel";
 
-            Console.WriteLine(name + " " + lastName);
+            string subbed = name.Substring(2,2);
 
-            string capsMessage = lastName.ToUpper();
+            Console.WriteLine(subbed);
 
-            Console.WriteLine(name + " " + capsMessage);
+            string low = name.ToLower();
 
-            string lowerCase = name.ToLower();
+            string high = name.ToUpper();
 
-            Console.WriteLine(lowerCase + " " + capsMessage);
+            string all = name + " " + lastName;
+
+            string trimmed = all.Trim();
+
+            string fullName = string.Concat(" ", name, lastName, " ");
+
+
+
+            Console.WriteLine(low);
+            Console.WriteLine(high);
+
+            Console.WriteLine(fullName.Trim());
+            Console.WriteLine(fullName.IndexOf('M'));
+
+            Console.WriteLine("My name is {0} {1}", name.Trim(), lastName);
+            Console.Read();
         }
     }
 }

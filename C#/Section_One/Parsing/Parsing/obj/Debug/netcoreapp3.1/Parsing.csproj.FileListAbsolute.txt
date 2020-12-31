@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\bin\Debug\netcoreapp3.1\Parsing.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\bin\Debug\netcoreapp3.1\Parsing.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\bin\Debug\netcoreapp3.1\Parsing.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\bin\Debug\netcoreapp3.1\Parsing.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\bin\Debug\netcoreapp3.1\Parsing.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\bin\Debug\netcoreapp3.1\Parsing.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\obj\Debug\netcoreapp3.1\Parsing.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\obj\Debug\netcoreapp3.1\Parsing.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\obj\Debug\netcoreapp3.1\Parsing.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\obj\Debug\netcoreapp3.1\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\obj\Debug\netcoreapp3.1\Parsing.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\obj\Debug\netcoreapp3.1\Parsing.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\Parsing\Parsing\obj\Debug\netcoreapp3.1\Parsing.genruntimeconfig.cache
