@@ -32,6 +32,12 @@ namespace Conversion
 
             Console.WriteLine(secondNumber);
 
+            bool sunIsShining = false;
+            String sun = sunIsShining.ToString();
+
+            Console.WriteLine(sun);
+
+
             Console.Read();
 
         }
