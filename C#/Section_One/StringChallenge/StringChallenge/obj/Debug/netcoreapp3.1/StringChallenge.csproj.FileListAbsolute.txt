@@ -1,0 +1,12 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\bin\Debug\netcoreapp3.1\StringChallenge.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\bin\Debug\netcoreapp3.1\StringChallenge.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\bin\Debug\netcoreapp3.1\StringChallenge.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\bin\Debug\netcoreapp3.1\StringChallenge.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\bin\Debug\netcoreapp3.1\StringChallenge.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\bin\Debug\netcoreapp3.1\StringChallenge.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\obj\Debug\netcoreapp3.1\StringChallenge.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\obj\Debug\netcoreapp3.1\StringChallenge.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\obj\Debug\netcoreapp3.1\StringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\obj\Debug\netcoreapp3.1\StringChallenge.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\obj\Debug\netcoreapp3.1\StringChallenge.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallenge\StringChallenge\obj\Debug\netcoreapp3.1\StringChallenge.genruntimeconfig.cache
