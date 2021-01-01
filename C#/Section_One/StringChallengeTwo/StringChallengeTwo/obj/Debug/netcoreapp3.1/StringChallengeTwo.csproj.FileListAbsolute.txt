@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\bin\Debug\netcoreapp3.1\StringChallengeTwo.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\bin\Debug\netcoreapp3.1\StringChallengeTwo.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\bin\Debug\netcoreapp3.1\StringChallengeTwo.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\bin\Debug\netcoreapp3.1\StringChallengeTwo.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\bin\Debug\netcoreapp3.1\StringChallengeTwo.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\bin\Debug\netcoreapp3.1\StringChallengeTwo.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\obj\Debug\netcoreapp3.1\StringChallengeTwo.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\obj\Debug\netcoreapp3.1\StringChallengeTwo.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\obj\Debug\netcoreapp3.1\StringChallengeTwo.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\obj\Debug\netcoreapp3.1\StringChallengeTwo.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\obj\Debug\netcoreapp3.1\StringChallengeTwo.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\obj\Debug\netcoreapp3.1\StringChallengeTwo.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\StringChallengeTwo\StringChallengeTwo\obj\Debug\netcoreapp3.1\StringChallengeTwo.genruntimeconfig.cache
