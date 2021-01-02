@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\bin\Debug\netcoreapp3.1\DataTypesChallenge.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\bin\Debug\netcoreapp3.1\DataTypesChallenge.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\bin\Debug\netcoreapp3.1\DataTypesChallenge.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\bin\Debug\netcoreapp3.1\DataTypesChallenge.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\bin\Debug\netcoreapp3.1\DataTypesChallenge.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\bin\Debug\netcoreapp3.1\DataTypesChallenge.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\obj\Debug\netcoreapp3.1\DataTypesChallenge.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\obj\Debug\netcoreapp3.1\DataTypesChallenge.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\obj\Debug\netcoreapp3.1\DataTypesChallenge.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\obj\Debug\netcoreapp3.1\DataTypesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\obj\Debug\netcoreapp3.1\DataTypesChallenge.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\obj\Debug\netcoreapp3.1\DataTypesChallenge.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_One\DataTypesChallenge\DataTypesChallenge\obj\Debug\netcoreapp3.1\DataTypesChallenge.genruntimeconfig.cache
