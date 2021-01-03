@@ -20,6 +20,11 @@ namespace DataTypesChallenge
 
             Console.WriteLine(newNum);
             Console.WriteLine(newNum.GetType());
+
+
+            const double PI = 3.14;
+            const string birtdate = "20.09.1987";
+
             Console.Read();
         }
     }
