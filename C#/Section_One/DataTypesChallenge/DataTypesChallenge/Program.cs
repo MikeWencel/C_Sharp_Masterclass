@@ -6,16 +6,21 @@ namespace DataTypesChallenge
     {
         static void Main(string[] args)
         {   
-            String name = "Mike";
+            string name = "Mike";
             int num = 23243;
             double numero = 2.4;
             float number = 2.4F;
             long numeros = 2321312421432L;
 
-            String controller = "I control text";
+            string controller = "I control text";
+            string numberString = "233443";
 
-         
+            int newNum = Int32.Parse(numberString);
 
+
+            Console.WriteLine(newNum);
+            Console.WriteLine(newNum.GetType());
+            Console.Read();
         }
     }
 }
