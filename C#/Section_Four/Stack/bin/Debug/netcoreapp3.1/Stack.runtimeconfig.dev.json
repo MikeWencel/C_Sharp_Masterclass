@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Ventillo\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Ventillo\\.nuget\\packages"
-    ]
-  }
-}
