@@ -1,0 +1,12 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\bin\Debug\netcoreapp3.1\BasicOfMethods.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\bin\Debug\netcoreapp3.1\BasicOfMethods.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\bin\Debug\netcoreapp3.1\BasicOfMethods.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\bin\Debug\netcoreapp3.1\BasicOfMethods.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\bin\Debug\netcoreapp3.1\BasicOfMethods.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\bin\Debug\netcoreapp3.1\BasicOfMethods.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\obj\Debug\netcoreapp3.1\BasicOfMethods.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\obj\Debug\netcoreapp3.1\BasicOfMethods.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\obj\Debug\netcoreapp3.1\BasicOfMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\obj\Debug\netcoreapp3.1\BasicOfMethods.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\obj\Debug\netcoreapp3.1\BasicOfMethods.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\BasicOfMethods\BasicOfMethods\obj\Debug\netcoreapp3.1\BasicOfMethods.genruntimeconfig.cache
