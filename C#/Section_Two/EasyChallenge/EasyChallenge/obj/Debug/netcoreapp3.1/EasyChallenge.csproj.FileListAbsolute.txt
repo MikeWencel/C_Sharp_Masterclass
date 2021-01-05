@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\bin\Debug\netcoreapp3.1\EasyChallenge.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\bin\Debug\netcoreapp3.1\EasyChallenge.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\bin\Debug\netcoreapp3.1\EasyChallenge.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\bin\Debug\netcoreapp3.1\EasyChallenge.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\bin\Debug\netcoreapp3.1\EasyChallenge.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\bin\Debug\netcoreapp3.1\EasyChallenge.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\obj\Debug\netcoreapp3.1\EasyChallenge.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\obj\Debug\netcoreapp3.1\EasyChallenge.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\obj\Debug\netcoreapp3.1\EasyChallenge.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\obj\Debug\netcoreapp3.1\EasyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\obj\Debug\netcoreapp3.1\EasyChallenge.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\obj\Debug\netcoreapp3.1\EasyChallenge.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\EasyChallenge\EasyChallenge\obj\Debug\netcoreapp3.1\EasyChallenge.genruntimeconfig.cache
