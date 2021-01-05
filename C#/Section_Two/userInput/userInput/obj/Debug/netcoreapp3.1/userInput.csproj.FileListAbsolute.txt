@@ -1,0 +1,12 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\bin\Debug\netcoreapp3.1\userInput.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\userInput\userInput\obj\Debug\netcoreapp3.1\userInput.genruntimeconfig.cache
