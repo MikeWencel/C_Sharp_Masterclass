@@ -1,118 +1,117 @@
 ﻿using System;
 
+
 namespace XYZsort
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-            string firstInput = Console.ReadLine();
-            int num = Int32.Parse(firstInput);
-            int[,] tab = new int[num,3];
+            int row = 0;
+            int col = 0;
+            int[,] matrix1;
 
-            for (int i = 0; i < num; i++) 
+            row = Convert.ToInt32(Console.ReadLine());
+            col = Convert.ToInt32(Console.ReadLine());
+            matrix1 = new int[i, col];
+            for (int i = 0; i < col; i++)
             {
-                bool res;
-                int a;
-                string first = Console.ReadLine();
-                res = int.TryParse(first, out a);
-                string second = Console.ReadLine();
-                int y = int.TryParse(second);
-                string third = Console.ReadLine();
-                int z = int.TryParse(third);
-
-                tab[i, 0] = x;
-                tab[i, 1] = y;
-                tab[i, 2] = z;
-
+                for (int j = 0; j < row; j++)
+                {
+                    matrix1[i, j] = Convert.ToInt16(Console.ReadLine());
+                }
             }
+                
+            
+
+
 
             int ch = 1;
-            while (ch > 0)
-            {
-                ch = 0;
-                for (int i = 0; i < num; i++)
+                while (ch > 0)
                 {
-                    if(tab[i,0] > tab[i + 1,0])
-                    {
-                        int[] temp = new int[] { tab[i, 0], tab[i, 1], tab[i, 2] };
-                        tab[i, 0] = tab[i + 1, 0];
-                        tab[i, 1] = tab[i + 1, 1];
-                        tab[i, 2] = tab[i + 1, 2];
-                        tab[i + 1,0] = temp[0];
-                        tab[i + 1, 1] = temp[1];
-                        tab[i + 1, 2] = temp[2];
-                        ch++;
-                    }
-                }
-
-                int[] tmp = new int[3];
-                for (int i = 0; i < num; i++) 
-                {
-                    if(i + 1 < num)
-                    {
-                        if(tab[i,0] > tab[i + 1,0]) 
-                        {
-                            for(int j = 0; j < 3; j++) 
-                            {
-                                tmp[j] = tab[i, j];
-                                tab[i, j] = tab[i + 1, j];
-                                tab[i + 1, j] = tmp[j];
-                            }
-                        }
-                    }
-                }
-
-                int[] tmp2 = new int[3];
-                for (int i = 0; i < num; i++)
-                {
-                    if (i + 1 < num)
+                    ch = 0;
+                    for (int i = 0; i < num; i++)
                     {
                         if (tab[i, 0] > tab[i + 1, 0])
                         {
-                            if(tab[i,1] > tab[i + 1,1])
-                            for (int j = 0; j < 3; j++)
-                            {
-                                tmp2[j] = tab[i, j];
-                                tab[i, j] = tab[i + 1, j];
-                                tab[i + 1, j] = tmp2[j];
-                            }
+                            int[] temp = new int[] { tab[i, 0], tab[i, 1], tab[i, 2] };
+                            tab[i, 0] = tab[i + 1, 0];
+                            tab[i, 1] = tab[i + 1, 1];
+                            tab[i, 2] = tab[i + 1, 2];
+                            tab[i + 1, 0] = temp[0];
+                            tab[i + 1, 1] = temp[1];
+                            tab[i + 1, 2] = temp[2];
+                            ch++;
                         }
                     }
-                }
 
-                int[] tmp3 = new int[3];
-                for (int i = 0; i < num; i++)
-                {
-                    if (i + 1 < num)
+                    int[] tmp = new int[3];
+                    for (int i = 0; i < num; i++)
                     {
-                        if (tab[i, 0] > tab[i + 1, 0])
+                        if (i + 1 < num)
                         {
-                            if (tab[i, 1] > tab[i + 1, 2])
+                            if (tab[i, 0] > tab[i + 1, 0])
+                            {
                                 for (int j = 0; j < 3; j++)
                                 {
-                                    tmp3[j] = tab[i, j];
+                                    tmp[j] = tab[i, j];
                                     tab[i, j] = tab[i + 1, j];
-                                    tab[i + 1, j] = tmp3[j];
+                                    tab[i + 1, j] = tmp[j];
                                 }
+                            }
                         }
                     }
-                }
 
-                for(int x = 0;x<3;x++)
-                {
-                    for(int y = 0; y < 3; y++)
+                    int[] tmp2 = new int[3];
+                    for (int i = 0; i < num; i++)
                     {
-                        Console.WriteLine(tab[x, y]);
-                        Console.WriteLine();
+                        if (i + 1 < num)
+                        {
+                            if (tab[i, 0] > tab[i + 1, 0])
+                            {
+                                if (tab[i, 1] > tab[i + 1, 1])
+                                    for (int j = 0; j < 3; j++)
+                                    {
+                                        tmp2[j] = tab[i, j];
+                                        tab[i, j] = tab[i + 1, j];
+                                        tab[i + 1, j] = tmp2[j];
+                                    }
+                            }
+                        }
                     }
+
+                    int[] tmp3 = new int[3];
+                    for (int i = 0; i < num; i++)
+                    {
+                        if (i + 1 < num)
+                        {
+                            if (tab[i, 0] > tab[i + 1, 0])
+                            {
+                                if (tab[i, 1] > tab[i + 1, 2])
+                                    for (int j = 0; j < 3; j++)
+                                    {
+                                        tmp3[j] = tab[i, j];
+                                        tab[i, j] = tab[i + 1, j];
+                                        tab[i + 1, j] = tmp3[j];
+                                    }
+                            }
+                        }
+                    }
+
+                    for (int x = 0; x < 3; x++)
+                    {
+                        for (int y = 0; y < 3; y++)
+                        {
+                            Console.WriteLine(tab[x, y]);
+                            Console.WriteLine();
+                        }
+                    }
+
                 }
-
+                Console.Read();
             }
-            Console.Read();
-        }
 
-        
+
+        }
     }
-}
+
