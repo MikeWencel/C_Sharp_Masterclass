@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\bin\Debug\netcoreapp3.1\XYZsort.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\bin\Debug\netcoreapp3.1\XYZsort.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\bin\Debug\netcoreapp3.1\XYZsort.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\bin\Debug\netcoreapp3.1\XYZsort.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\bin\Debug\netcoreapp3.1\XYZsort.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\bin\Debug\netcoreapp3.1\XYZsort.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\obj\Debug\netcoreapp3.1\XYZsort.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\obj\Debug\netcoreapp3.1\XYZsort.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\obj\Debug\netcoreapp3.1\XYZsort.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\obj\Debug\netcoreapp3.1\XYZsort.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\obj\Debug\netcoreapp3.1\XYZsort.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\obj\Debug\netcoreapp3.1\XYZsort.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\XYZsort\XYZsort\obj\Debug\netcoreapp3.1\XYZsort.genruntimeconfig.cache
