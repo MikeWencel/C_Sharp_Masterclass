@@ -7,19 +7,30 @@ namespace XYZsort
     {
         static void Main(string[] args)
         {
-            int row = 0;
-            int col = 0;
-            int[,] matrix1;
-
-            row = Convert.ToInt32(Console.ReadLine());
-            col = Convert.ToInt32(Console.ReadLine());
-            matrix1 = new int[i, col];
-            for (int i = 0; i < col; i++)
+            string strInput = Console.ReadLine();
+            int num = Int32.Parse(strInput);
+            int[,] tab = new int[num,3];
+            for (int i = 0;i < num; i++)
             {
-                for (int j = 0; j < row; j++)
-                {
-                    matrix1[i, j] = Convert.ToInt16(Console.ReadLine());
-                }
+                string xA = Console.ReadLine();
+                string[] test = xA.Split(" ");
+                string xAA = test[0];
+                int x = Int32.Parse(xAA);
+
+                string yb = Console.ReadLine();
+                string[] test1 = xA.Split(" ");
+                string yBB = test[0];
+                int y = Int32.Parse(yBB);
+
+                string zC = Console.ReadLine();
+                string[] test2 = xA.Split(" ");
+                string zCC = test[0];
+                int z = Int32.Parse(yBB);
+
+                tab[i,0] = x;
+                tab[i,1] = y;
+                tab[i,2] = z;
+
             }
                 
             
