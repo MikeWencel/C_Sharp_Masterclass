@@ -31,6 +31,7 @@ namespace ArrayTraining
                 {8,9,2,1 }
             };
 
+
             Console.WriteLine(twoDimmenstional[0,2]);
 
             for(int i = 0; i < 3; i++)
@@ -42,6 +43,10 @@ namespace ArrayTraining
                 }
                 Console.WriteLine(" ");
             }
+            Console.WriteLine(twoDimmenstional.GetLength(1));
+
+
+
 
             Console.Read();
         }

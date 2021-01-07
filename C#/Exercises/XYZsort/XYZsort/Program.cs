@@ -47,6 +47,7 @@ namespace XYZsort
                             ch++;
                         }
                     }
+                ch++;
 
                     int[] tmp = new int[3];
                     for (int i = 0; i < num; i++)
@@ -62,6 +63,7 @@ namespace XYZsort
                                     tab[i + 1, j] = tmp[j];
                                 }
                             }
+                       
                         }
                     }
 
@@ -80,7 +82,8 @@ namespace XYZsort
                                         tab[i + 1, j] = tmp2[j];
                                     }
                             }
-                        }
+                        
+                    }
                     }
 
                     int[] tmp3 = new int[3];
