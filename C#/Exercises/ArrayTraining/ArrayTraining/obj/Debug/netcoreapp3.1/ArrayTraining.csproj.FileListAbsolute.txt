@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\bin\Debug\netcoreapp3.1\ArrayTraining.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\bin\Debug\netcoreapp3.1\ArrayTraining.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\bin\Debug\netcoreapp3.1\ArrayTraining.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\bin\Debug\netcoreapp3.1\ArrayTraining.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\bin\Debug\netcoreapp3.1\ArrayTraining.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\bin\Debug\netcoreapp3.1\ArrayTraining.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\obj\Debug\netcoreapp3.1\ArrayTraining.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\obj\Debug\netcoreapp3.1\ArrayTraining.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\obj\Debug\netcoreapp3.1\ArrayTraining.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\obj\Debug\netcoreapp3.1\ArrayTraining.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\obj\Debug\netcoreapp3.1\ArrayTraining.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\obj\Debug\netcoreapp3.1\ArrayTraining.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\ArrayTraining\ArrayTraining\obj\Debug\netcoreapp3.1\ArrayTraining.genruntimeconfig.cache

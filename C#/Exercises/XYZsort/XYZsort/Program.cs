@@ -7,41 +7,33 @@ namespace XYZsort
     {
         static void Main(string[] args)
         {
+            //Podaje liczbę tablic, które zostaną utworzone
             string strInput = Console.ReadLine();
             int num = Int32.Parse(strInput);
+            //Każda tablica ma mieć po 3 liczby
             int[,] tab = new int[num,3];
+
+            //Pętla wykonuje się X razy, czyli liczbę zadeklorowanych tablic.
             for (int i = 0;i < num; i++)
             {
-                string xA = Console.ReadLine();
-                string[] test = xA.Split(" ");
-                string xAA = test[0];
-                int x = Int32.Parse(xAA);
+                var values = (Console.ReadLine().Split(' '));
+                for (int j = 0;j < num; j++) 
+                {
+                    tab[i, j] = int.Parse(values[j]);
+                }
 
-                string yb = Console.ReadLine();
-                string[] test1 = xA.Split(" ");
-                string yBB = test[0];
-                int y = Int32.Parse(yBB);
+                //Przypisanie wartości do pozycji w tablicy
+                // tab[i,0] = x;
+              //  tab[i,1] = y;
+            //    tab[i,2] = z;
 
-                string zC = Console.ReadLine();
-                string[] test2 = xA.Split(" ");
-                string zCC = test[0];
-                int z = Int32.Parse(yBB);
-
-                tab[i,0] = x;
-                tab[i,1] = y;
-                tab[i,2] = z;
-
+               
             }
-                
-            
-
-
-
             int ch = 1;
                 while (ch > 0)
                 {
                     ch = 0;
-                    for (int i = 0; i < num; i++)
+                    for (int i = 0; i < num - 1; i++)
                     {
                         if (tab[i, 0] > tab[i + 1, 0])
                         {
@@ -108,18 +100,19 @@ namespace XYZsort
                             }
                         }
                     }
+                
+            }
 
-                    for (int x = 0; x < 3; x++)
-                    {
-                        for (int y = 0; y < 3; y++)
-                        {
-                            Console.WriteLine(tab[x, y]);
-                            Console.WriteLine();
-                        }
-                    }
-
+            for (int i = 0; i < num; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(tab[i, j]);
+                    Console.Write(" ");
                 }
-                Console.Read();
+                Console.WriteLine(" ");
+            }
+            Console.Read();
             }
 
 
