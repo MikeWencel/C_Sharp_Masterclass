@@ -8,10 +8,15 @@ namespace TryCatchFinally
         {
             Console.WriteLine("Please enter a number");
             string userInput = Console.ReadLine();
+            Console.WriteLine("Please enter second a number");
+            string secondUserInput = Console.ReadLine();
 
             try
             {
                 int userInputasInt = int.Parse(userInput);
+                int secondInputasInt = int.Parse(secondUserInput);
+
+                int result = userInputasInt / secondInputasInt;
             }
 
             //Exception is generic error
@@ -28,6 +33,11 @@ namespace TryCatchFinally
             catch(ArgumentNullException)
             {
                 Console.WriteLine("Argument Null Exception");
+            }
+
+            catch(DivideByZeroException)
+            {
+                Console.WriteLine("You can't divide by zero!");
             }
 
             finally
