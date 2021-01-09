@@ -16,16 +16,17 @@ namespace XYZsort
             //Pętla wykonuje się X razy, czyli liczbę zadeklorowanych tablic.
             for (int i = 0;i < num; i++)
             {
+                //Przypisanie wartości do pozycji w tablicy
+                // tab[i,0] = x;
+                //  tab[i,1] = y;
+                //    tab[i,2] = z;
                 var values = (Console.ReadLine().Split(' '));
                 for (int j = 0;j < num; j++) 
                 {
                     tab[i, j] = int.Parse(values[j]);
                 }
 
-                //Przypisanie wartości do pozycji w tablicy
-                // tab[i,0] = x;
-              //  tab[i,1] = y;
-            //    tab[i,2] = z;
+               
 
                
             }
@@ -103,9 +104,8 @@ namespace XYZsort
                             }
                         }
                     }
-                
             }
-
+            //Wydruk tablicy
             for (int i = 0; i < num; i++)
             {
                 for (int j = 0; j < 3; j++)
@@ -117,7 +117,6 @@ namespace XYZsort
             }
             Console.Read();
             }
-
 
         }
     }

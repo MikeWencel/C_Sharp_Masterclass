@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\TryCatchFinally\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.genruntimeconfig.cache
