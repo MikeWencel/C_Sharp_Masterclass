@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\bin\Debug\netcoreapp3.1\Learning_TryParse.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\bin\Debug\netcoreapp3.1\Learning_TryParse.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\bin\Debug\netcoreapp3.1\Learning_TryParse.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\bin\Debug\netcoreapp3.1\Learning_TryParse.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\bin\Debug\netcoreapp3.1\Learning_TryParse.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\bin\Debug\netcoreapp3.1\Learning_TryParse.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\obj\Debug\netcoreapp3.1\Learning_TryParse.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\obj\Debug\netcoreapp3.1\Learning_TryParse.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\obj\Debug\netcoreapp3.1\Learning_TryParse.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\obj\Debug\netcoreapp3.1\Learning_TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\obj\Debug\netcoreapp3.1\Learning_TryParse.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\obj\Debug\netcoreapp3.1\Learning_TryParse.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Section_Two\Learning_TryParse\Learning_TryParse\obj\Debug\netcoreapp3.1\Learning_TryParse.genruntimeconfig.cache
