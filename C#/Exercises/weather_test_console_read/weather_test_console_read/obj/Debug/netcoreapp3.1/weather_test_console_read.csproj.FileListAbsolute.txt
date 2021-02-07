@@ -1,0 +1,13 @@
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\bin\Debug\netcoreapp3.1\weather_test_console_read.exe
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\bin\Debug\netcoreapp3.1\weather_test_console_read.deps.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\bin\Debug\netcoreapp3.1\weather_test_console_read.runtimeconfig.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\bin\Debug\netcoreapp3.1\weather_test_console_read.runtimeconfig.dev.json
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\bin\Debug\netcoreapp3.1\weather_test_console_read.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\bin\Debug\netcoreapp3.1\weather_test_console_read.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\obj\Debug\netcoreapp3.1\weather_test_console_read.csprojAssemblyReference.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\obj\Debug\netcoreapp3.1\weather_test_console_read.AssemblyInfoInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\obj\Debug\netcoreapp3.1\weather_test_console_read.AssemblyInfo.cs
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\obj\Debug\netcoreapp3.1\weather_test_console_read.csproj.CoreCompileInputs.cache
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\obj\Debug\netcoreapp3.1\weather_test_console_read.dll
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\obj\Debug\netcoreapp3.1\weather_test_console_read.pdb
+C:\Users\Mike Wencel\Documents\Programowanie\C_Sharp_Masterclass\C#\Exercises\weather_test_console_read\weather_test_console_read\obj\Debug\netcoreapp3.1\weather_test_console_read.genruntimeconfig.cache

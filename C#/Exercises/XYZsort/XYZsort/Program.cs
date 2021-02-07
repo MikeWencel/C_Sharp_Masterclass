@@ -18,17 +18,13 @@ namespace XYZsort
             {
                 //Przypisanie wartości do pozycji w tablicy
                 // tab[i,0] = x;
-                //  tab[i,1] = y;
-                //    tab[i,2] = z;
+                // tab[i,1] = y;
+                // tab[i,2] = z;
                 var values = (Console.ReadLine().Split(' '));
-                for (int j = 0;j < num; j++) 
+                for (int j = 0; j < 3; j++)
                 {
                     tab[i, j] = int.Parse(values[j]);
                 }
-
-               
-
-               
             }
             int ch = 1;
                 while (ch > 0)
@@ -36,74 +32,18 @@ namespace XYZsort
                     ch = 0;
                     for (int i = 0; i < num - 1; i++)
                     {
-                        if (tab[i, 0] > tab[i + 1, 0])
-                        {
-                            int[] temp = new int[] { tab[i, 0], tab[i, 1], tab[i, 2] };
-                            tab[i, 0] = tab[i + 1, 0];
-                            tab[i, 1] = tab[i + 1, 1];
-                            tab[i, 2] = tab[i + 1, 2];
-                            tab[i + 1, 0] = temp[0];
-                            tab[i + 1, 1] = temp[1];
-                            tab[i + 1, 2] = temp[2];
-                            ch++;
-                        }
-                    }
-                ch++;
-
-                    int[] tmp = new int[3];
-                    for (int i = 0; i < num; i++)
+                    if (tab[i, 0] > tab[i + 1, 0])
                     {
-                        if (i + 1 < num)
-                        {
-                            if (tab[i, 0] > tab[i + 1, 0])
-                            {
-                                for (int j = 0; j < 3; j++)
-                                {
-                                    tmp[j] = tab[i, j];
-                                    tab[i, j] = tab[i + 1, j];
-                                    tab[i + 1, j] = tmp[j];
-                                }
-                            }
-                       
-                        }
+                        int[] temp = new int[] { tab[i, 0], tab[i, 1], tab[i, 2] };
+                        tab[i, 0] = tab[i + 1, 0];
+                        tab[i, 1] = tab[i + 1, 1];
+                        tab[i, 2] = tab[i + 1, 2];
+                        tab[i + 1, 0] = temp[0];
+                        tab[i + 1, 1] = temp[1];
+                        tab[i + 1, 2] = temp[2];
+                        ch++;
                     }
-
-                    int[] tmp2 = new int[3];
-                    for (int i = 0; i < num; i++)
-                    {
-                        if (i + 1 < num)
-                        {
-                            if (tab[i, 0] > tab[i + 1, 0])
-                            {
-                                if (tab[i, 1] > tab[i + 1, 1])
-                                    for (int j = 0; j < 3; j++)
-                                    {
-                                        tmp2[j] = tab[i, j];
-                                        tab[i, j] = tab[i + 1, j];
-                                        tab[i + 1, j] = tmp2[j];
-                                    }
-                            }
-                        
-                    }
-                    }
-
-                    int[] tmp3 = new int[3];
-                    for (int i = 0; i < num; i++)
-                    {
-                        if (i + 1 < num)
-                        {
-                            if (tab[i, 0] > tab[i + 1, 0])
-                            {
-                                if (tab[i, 1] > tab[i + 1, 2])
-                                    for (int j = 0; j < 3; j++)
-                                    {
-                                        tmp3[j] = tab[i, j];
-                                        tab[i, j] = tab[i + 1, j];
-                                        tab[i + 1, j] = tmp3[j];
-                                    }
-                            }
-                        }
-                    }
+                }
             }
             //Wydruk tablicy
             for (int i = 0; i < num; i++)
